@@ -5,7 +5,7 @@ Website for **MZ Collection**, a shop for handmade crochet gajras, bags and keyc
 ## Structure
 
 ```
-MZ COLLECTION/
+.
 ├── index.html          # Home page
 ├── pages/              # Category pages (gajras, bags, keychains)
 └── assets/
@@ -16,7 +16,7 @@ MZ COLLECTION/
 
 ## Running
 
-It's a static site, so there's nothing to build. Open `MZ COLLECTION/index.html` in a browser.
+It's a static site, so there's nothing to build. Open `index.html` in a browser.
 
 ## Orders via WhatsApp
 
